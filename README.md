@@ -1,2 +1,4 @@
 # GeoTask
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+https://user-images.githubusercontent.com/46295901/134395202-fa5d2669-b382-4dda-9d32-971398998b6e.mp4
+
