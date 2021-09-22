@@ -3,6 +3,7 @@
 # Requirements
 
 * Use the Maps SDK for Android, Directions API, Places API
+* insert your API KEY in local.properties
 
 # Demo
 
@@ -18,6 +19,7 @@ https://user-images.githubusercontent.com/46295901/134395202-fa5d2669-b382-4dda-
 * Retrofit
 * Coroutines
 * Hilt
+* Navigation Component
 * Jetpack libraries
   * lifecycle
   * fragment
